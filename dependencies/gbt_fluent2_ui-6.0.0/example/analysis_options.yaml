@@ -1,0 +1,4 @@
+#include: package:gbt_lints/analysis_options.yaml
+
+linter:
+  rules:

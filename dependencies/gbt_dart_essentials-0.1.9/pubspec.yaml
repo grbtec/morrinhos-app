@@ -1,0 +1,11 @@
+name: gbt_dart_essentials
+description: Gbt Dart Essentials
+version: 0.1.9
+
+environment:
+  sdk: ^3.1.0
+
+dev_dependencies:
+  gbt_lints:
+    path: ../gbt_lints-1.0.0
+  test: ^1.21.0

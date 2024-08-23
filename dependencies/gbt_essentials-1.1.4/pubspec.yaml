@@ -1,0 +1,20 @@
+name: gbt_essentials
+description: Gbt (Flutter) Essentials
+version: 1.1.4
+
+environment:
+  sdk: ^3.0.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  gbt_dart_essentials:
+    path: ../gbt_dart_essentials-0.1.9
+
+dev_dependencies:
+  gbt_lints:
+    hosted: https://dart.pkg.jetbrains.space/grbtec-com/p/main/dart/
+    version: ^1.0.0
+  test: ^1.21.0
+
+
